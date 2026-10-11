@@ -8,7 +8,7 @@ profile:
   align: right
   image: xuan_photo.jpg
   image_circular: true
-  more_info: ""
+  more_info: >
 
 selected_papers: false
 social: true
