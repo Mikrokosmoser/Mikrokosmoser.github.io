@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 
+title:
 first_name: Xuan
 last_name: Chen 陈炫
 contact_note: >
@@ -15,12 +15,12 @@ footer_text: >
 keywords: Xuan Chen, 陈炫, academic website, research, publications
 lang: en
 icon: 🤖
-apple_touch_icon: 
+apple_touch_icon:
 
 url: https://mikrokosmoser.github.io
-baseurl: 
+baseurl:
 last_updated: false
-impressum_path: 
+impressum_path:
 back_to_top: true
 
 # -----------------------------------------------------------------------------
