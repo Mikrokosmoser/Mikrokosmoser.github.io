@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: M.S. Student in Control Science and Engineering · Zhejiang University
 
