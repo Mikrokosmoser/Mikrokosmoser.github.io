@@ -220,16 +220,16 @@ ninja.data = [{
 </script> <script src="/assets/al_search/js/shortcut-key.js"></script> <script>
   // Hide selected sections from Ctrl + K search.
   (() => {
-    const ninja = document.querySelector("ninja-keys");
+    const ninja = document.querySelector('ninja-keys');
 
     if (!ninja || !Array.isArray(ninja.data)) {
       return;
     }
 
-    const hiddenSections = new Set(["books", "news", "projects", "teachings"]);
+    const hiddenSections = new Set(['books', 'news', 'projects', 'teachings']);
 
     ninja.data = ninja.data.filter((item) => {
-      const section = String(item.section || "").toLowerCase();
+      const section = String(item.section || '').toLowerCase();
       return !hiddenSections.has(section);
     });
   })();
