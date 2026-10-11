@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently an M.S. student in Control Science and Engineering at Zhejiang University, advised by Prof. Yunqi Cao. I received my B.Eng. degree in Automation from Zhejiang University, where I worked with Prof. Cao on soft wearable devices.
+I am currently an M.S. student in Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Yunqi Cao](https://scholar.google.com/citations?user=QP1Ugk8AAAAJ&hl=en&oi=ao). I received my B.Eng. degree in Automation from Zhejiang University, where I worked with Prof. Cao on soft wearable devices.
 
-My research interests include actuation, structural design, and multimodal sensing for robotic end-effectors; flexible sensors and wearable sensing systems; and industrial process monitoring, defect detection, and quality inspection.
+My primary research interests lie in **robotic end-effectors**, particularly in actuation mechanisms, structural design, multimodal sensing, and sensing–actuation integration for dexterous manipulation and physical interaction. My research background spans **flexible sensors and wearable sensing systems**, with an emphasis on sensor design, human motion monitoring, and tactile sensing. I also have experience in **sensor-based industrial inspection and physical signal analysis**.
 
-I am always open to exchanging ideas and exploring potential research collaborations. Feel free to reach out!
+Looking ahead, I am particularly interested in developing robotic end-effectors that integrate intelligent sensing with innovative mechanical designs and actuation mechanisms.
+
+I welcome discussions and potential research collaborations. Feel free to reach out!
