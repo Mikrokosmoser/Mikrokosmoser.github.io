@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xuanchen.github.io/sitemap.xml
+Sitemap: https://mikrokosmoser.github.io/sitemap.xml
